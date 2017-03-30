@@ -1,0 +1,26 @@
+h1 {
+  color: white;
+  font-variant: small-caps;
+  font-size: 2em; 
+}
+
+table, th, td {
+  border: 3px white solid;
+  background: lightblue;
+}
+
+.browse {
+  text-align: center;
+  background: white;
+  border: none; 
+}
+
+.tbody {
+  background: white;
+  text-align: center;  
+}
+
+.talt {
+  background: white;
+  text-align: left;
+}
